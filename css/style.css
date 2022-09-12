@@ -49,16 +49,16 @@ div {
     background-color: #ff0000;
     text-align: right;
     margin-left: 50px;
-    border-left: 5px;
-    border-bottom: 2px;
+    border-left-width: 5px;
+    border-bottom-width: 2px;
 }
 
 .blue {
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
-    border-right: 5px;
-    border-top: 2px;
+    border-right-width: 5px;
+    border-top-width: 2px;
     color: #c4c4c4;
 }
 
@@ -70,16 +70,16 @@ div {
     background-color: #ffff00;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px;
-    border-left: 5px;
+    border-bottom-width: 2px;
+    border-left-width: 5px;
     color: #707070 ;
 }
 
 .green{
     background-color: #00EB00 ;
     text-align: left;
-    border-right: 5px;
-    border-top: 2px;
+    border-right-width: 5px;
+    border-top-width: 2px;
 
 }
 
