@@ -1,1 +1,2 @@
-# hw3_CSS_Box_Model
+# hw3_simple_css
+Starter code for simple css assignment
