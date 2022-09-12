@@ -23,10 +23,13 @@ p {
     padding-top: 10px;
 }
 
-image {
+img {
     width: 250px;
-    /* CENTER THE IMAGE */
     border: 5px dashed #fff;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 div {
@@ -57,7 +60,10 @@ div {
     border-right: 5px;
     border-top: 2px;
     color: #c4c4c4;
-    /* HEADING NEEDS COLOR CHANGED*/
+}
+
+.blue h2 {
+    color: #c4c4c4;
 }
 
 .yellow {
