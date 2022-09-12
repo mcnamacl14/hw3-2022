@@ -1,2 +1,2 @@
-# hw3_simple_css
+# hw3_simple_css-main
 Starter code for simple css assignment
